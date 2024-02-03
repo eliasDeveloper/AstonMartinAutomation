@@ -6,8 +6,8 @@ This repository contains end-to-end tests for the Enquiry feature for Aston Mart
 
 To install the project, follow these steps:
 
-1. Clone the repository: git clone 
-2. Navigate to the project directory: cd <project-directory>
+1. Clone the repository: git clone https://github.com/eliasDeveloper/AstonMartinAutomation.git
+2. Navigate to the project directory if needed.
 3. Install dependencies using npm: 
 ```bash 
 npm install
