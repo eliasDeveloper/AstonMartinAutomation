@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chai": "^4.3.7",
+    "cypress": "^13.6.4",
+    "msnodesqlv8": "^4.1.0",
+    "tedious": "^16.4.0"
+  },
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "@shelex/cypress-allure-plugin": "^2.40.1",
+    "cypress-browser-permissions": "^1.1.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-xpath": "^2.0.1",
+    "mssql": "^10.0.1"
+  }
+}
